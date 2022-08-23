@@ -1,0 +1,6 @@
+variáveis:
+int   - interiro - %i
+float - real     - %f
+char  - caracter - %c
+
+
