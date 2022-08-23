@@ -1,0 +1,3 @@
+executar comando gcc:
+.\nomearquivo.exe
+
