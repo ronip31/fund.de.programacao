@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 variáveis:
 int   - interiro - %i
 float - real     - %f
 char  - caracter - %c
 
 
+=======
+executar comando gcc:
+.\nomearquivo.exe
+
+>>>>>>> 94872a43feb22d87699282663bcc6b1c1fccf28a
