@@ -9,4 +9,4 @@ char  - caracter - %c
 executar comando gcc:
 .\nomearquivo.exe
 
->>>>>>> 94872a43feb22d87699282663bcc6b1c1fccf28a
+gcc -o exercicio6 exercicio6.c
