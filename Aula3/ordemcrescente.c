@@ -28,16 +28,5 @@ float a, b, c;
         printf("C < A < B");
     }
     
-    
-      
-
-
-
-
-
-
-
-
-
-    return 0;
+        return 0;
 }
