@@ -1,21 +1,16 @@
-/*
-Problema: Como sortear um número?
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void){
+int main (void){
 	// variáveis?
 	int ns, np;
 	
 	// entrada?
 	printf("Digite o numero sorteado: ");
-	scanf("%i",&ns);
+	scanf("%i", &ns);
 	fflush(stdin);
-	system("cls");
-	printf("Digite seu numero: ");
-	scanf("%i",&np);
+	printf("Digite seu numero: \n");
+	scanf("%i", &np);
 	fflush(stdin);
 	
 	// saída
