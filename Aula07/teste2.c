@@ -8,6 +8,7 @@ int main (void){
 	// entrada?
 	printf("Digite o numero sorteado: ");
 	scanf("%i", &ns);
+	system("cls");
 	fflush(stdin);
 	printf("Digite seu numero: \n");
 	scanf("%i", &np);
