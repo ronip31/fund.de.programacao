@@ -8,11 +8,11 @@ int main(void){
 
     //entrada
     printf("Digite o numero sorteado: \n");
-    scanf("%i, &ns");
+    scanf("%i", &ns);
     fflush(stdin);
     system("cls");
     printf("Digite seu numero: \n");
-    scanf("%i, &np");
+    scanf("%i", &np);
     fflush(stdin);
 
     //saida

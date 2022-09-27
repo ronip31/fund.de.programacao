@@ -10,3 +10,7 @@ executar comando gcc:
 .\nomearquivo.exe
 
 gcc -o exercicio6 exercicio6.c
+---------------
+
+switch não funcina para float, aoenas para int e char
+
