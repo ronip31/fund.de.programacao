@@ -1,6 +1,6 @@
 /*
-FaÃ§a um programa que calcule e mostre  a mÃ©dia  bimestral da turma. 
-O usuÃ¡rio deve informar a quantidade de notas, bem como cada nota.
+Faca um programa que calcule e mostre  a media  bimestral da turma. 
+O usuario deve informar a quantidade de notas, bem como cada nota.
 */
 
 #include <stdio.h>

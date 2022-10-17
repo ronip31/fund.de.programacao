@@ -22,7 +22,7 @@ int main(void){
 		for(i=n1+1;i<n2;i++){
 			printf("%i, ",i);
 		}
-	}else{
+	}else if (n2<n1){
 		for(i=n1-1;i>n2;i--){
 			printf("%i, ",i);
 		}
